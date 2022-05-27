@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AnimatableReload (0.1.0)
+  - FTIndicator (1.2.9):
+    - FTIndicator/FTNotificationIndicator (= 1.2.9)
+    - FTIndicator/FTProgressIndicator (= 1.2.9)
+    - FTIndicator/FTToastIndicator (= 1.2.9)
+  - FTIndicator/FTNotificationIndicator (1.2.9)
+  - FTIndicator/FTProgressIndicator (1.2.9)
+  - FTIndicator/FTToastIndicator (1.2.9)
+  - Kingfisher (4.10.1)
+  - PusherSwift (8.0.0):
+    - ReachabilitySwift (~> 5.0)
+    - Starscream (~> 3.1)
+  - ReachabilitySwift (5.0.0)
+  - Starscream (3.1.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AnimatableReload
+  - FTIndicator
+  - Kingfisher
+  - PusherSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AnimatableReload
+    - FTIndicator
+    - Kingfisher
+    - PusherSwift
+    - ReachabilitySwift
+    - Starscream
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AnimatableReload: dcef76a16258b82bf845225012aa8f3b1aa7df6c
+  FTIndicator: f7f071fd159e5befa1d040a9ef2e3ab53fa9322c
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  PusherSwift: 8f18b7beaf383e0475607ab6a3f89f477637fb21
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 12058747365e8b008e0d1c192f05fc461cbb4a3f
+
+COCOAPODS: 1.11.2
